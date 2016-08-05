@@ -4,7 +4,7 @@
 
 
 brew install zsh vim git tmux tree htop go nmap gibo node sqlite tig
-brew install caskroom/cask/brew-cask
+brew tap caskroom/cask
 brew tap peco/peco
 brew install peco
 brew tap motemen/ghq
